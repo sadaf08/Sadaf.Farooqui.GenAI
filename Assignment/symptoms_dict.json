@@ -1,0 +1,86 @@
+{
+    "Symptom1": {
+        "Fever": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom2": {
+        "Cough": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom3": {
+        "Cold": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom4": {
+        "Body Ache": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom5": {
+        "Shivering": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom6": {
+        "Head Ache": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom7": {
+        "Nausia": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom8": {
+        "Sickness": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom9": {
+        "Vertigo": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom10": {
+        "Vomitting": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom11": {
+        "Nose Bleed": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom12": {
+        "Vision Loss": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    }
+}
